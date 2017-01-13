@@ -1,8 +1,1 @@
-Android learning easy way
-Contents
-Tools to use the codes in this repo
-
-1.	Android Studio
-2.	Eclipse for java codes
-3.	Brain most important thingh
-4.	Patience 
+Android learning easy wayContentsTools to use the codes in this repoThere are lots of programming language these days infact every year a new programming language comes in the market some of them able to to survive in the market and some not.So to learn any new language you must be expert in any one language specially the oops language like c++ or Java. if you are famaliar with any of these language the there would be no much issue to learn new language.So basically ig you are starting learning the new language then yopu must be mastered in A.)		How to connect to database. ( most important )B.)		How to handle user inputC.)		How to give message to the userD.)		CRUD operation1.	Android Studio2.	Eclipse for java codes3.	Brain most important thingh4.	Patience 
