@@ -1,0 +1,1 @@
+In Android, the “android.widget.ToggleButton” is a special class to render a button which has only two states, for example, “on and “off”. It’s best alternative to radio buttons to turn on or turn off a function.
