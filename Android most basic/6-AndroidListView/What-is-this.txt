@@ -1,0 +1,4 @@
+In Android, ListView let you arranges components in a vertical scrollable list.
+There are two ways of List
+1)	normal Way
+2)	Custom array adaptor to customize the item display

@@ -1,0 +1,3 @@
+In Android, LinearLayout is a common layout that arranges “component” in vertical or horizontal order, via orientation attribute. In additional, the highest “weight” component will fill up the remaining space in LinearLayout.
+
+In this example, the highest weight is “button3”, so it will fill up the remaining space in the layout.

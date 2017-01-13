@@ -1,0 +1,1 @@
+In Android, TableLayout let you arranges components in rows and columns, just like the standard table layout in HTML, <tr> and <td>.

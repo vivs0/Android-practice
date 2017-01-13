@@ -1,0 +1,4 @@
+In Android, RelativeLayout let you position your component base on the nearby (relative or sibling) component’s position. It’s the most flexible layout, that allow you to position your component to display in anywhere you want 
+
+In RelativeLayout, you can use “above, below, left and right” to arrange the component position, for example, display a “button1” below “button2”, or display “button3” on right of the “button1”.
+
