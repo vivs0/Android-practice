@@ -1,0 +1,5 @@
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/accent_ripple" android:state_pressed="true"/> <!-- pressed -->
+    <item android:drawable="@color/primary_dark" /> <!-- normal -->
+</selector>
